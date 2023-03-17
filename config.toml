@@ -1,31 +1,27 @@
 site_title = "MyArxiv"
 limit_days = 7
-cache_url = "https://mlnlp-world.github.io/MyArxiv/cache.json"
+cache_url = "https://hitCoderr.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 150
-category = "cs.CL"
-title = "Computation and Language"
+category = "cs.AI"
+title = "Artificial Intelligence"
 
 [[sources]]
 limit = 150
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
+category = "cs.SE"
+title = "Software Engineering"
+
 
 [[sources]]
 limit = 150
-category = "cs.IR"
-title = "Information Retrieval"
+category = "cs.HC"
+title = "Human-Computer Interaction"
 
 [[sources]]
 limit = 150
 category = "cs.LG"
 title = "Machine Learning"
-
-[[sources]]
-limit = 150
-category = "cs.MM"
-title = "Multimedia"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
