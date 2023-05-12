@@ -1,8 +1,8 @@
 let titles_type = ["Survey", "Review", "Overview"];
-let titles_model = ["BERT", "GPT", "Transformer", "Large Language Model", "Knowledge Graph"];
+let titles_model = ["BERT", "GPT", "Transformer", "Large Language Model", "Knowledge Graph", "Code"];
 let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "Fine-Tuning"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Ge Li"];
+let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Ge Li", "Xin Peng","Zhengchang Xin"];
 
 let conferences = [
     // AI
