@@ -17,6 +17,10 @@ limit = 150
 category = "cs.SE"
 title = "Software Engineering"
 
+[[sources]]
+limit = 200
+category = "cs.CV"
+title = "Computer Vision and Pattern Recognition" 
 
 [[sources]]
 limit = 150
